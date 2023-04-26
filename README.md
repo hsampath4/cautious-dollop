@@ -1,4 +1,4 @@
-# SecurityProjects
+# Security Algorithm Implemntation
 Implementation of RSA, DH Key Exchange, ElGamal, ElGamal Re-Encryption, Universal Re-Encryption using Python
 
 RSA, also known as the Rivest-Shamir-Adleman cryptosystem, is a widely employed algo for ensuring secure communication by utilizing public and private keys. The underlying security of RSA is based on the challenging nature of factoring the product of two substantial prime numbers, commonly referred to as the "factoring problem."
